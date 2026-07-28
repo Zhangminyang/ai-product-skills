@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 项目开局"
+  short_description: "把模糊目标、已有材料或混乱目录变成可持续推进的 AI 项目"
+  default_prompt: "使用 $setup-workspace 把这件事建立成可跨会话持续推进的本地 AI 项目，并明确当前阶段、主交付物和下一步。"
