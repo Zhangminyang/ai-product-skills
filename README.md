@@ -9,6 +9,7 @@
 | [`claim-verify`](skills/claim-verify/) | Trace important claims back to evidence and state their confidence clearly. |
 | [`arch-diagram`](skills/arch-diagram/) | Turn a PRD or feature plan into a product architecture diagram by first clarifying structure and boundaries. |
 | [`prd-preflight`](skills/prd-preflight/) | Check whether a PRD is ready for engineering review, estimation, and testing. |
+| [`setup-workspace`](skills/setup-workspace/) | Turn a vague goal or scattered materials into an AI-ready project with a clear next step. |
 
 ## Use
 
