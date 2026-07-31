@@ -1,7 +1,6 @@
 ---
 name: setup-workspace
 description: 将一个模糊目标、一批已有材料或一个混乱目录，快速建立成 AI 可以持续理解和推进的本地项目。先判断是空白开局、带材料开局还是接管旧项目，读取现有结构后，明确项目目标、当前阶段完成标准、已有材料、当前范围、下一份交付物和最小下一步；生成或补全工具无关的 PROJECT.md、输入与产出位置，并按当前 AI 环境创建或安全补充 AGENTS.md / CLAUDE.md 协作入口。用于用户说“帮我建个项目”“搭个 AI 工作区”“这些材料怎么开始”“整理这个乱目录”“接着做这个旧项目”、初次使用本地 AI 或希望让项目可跨会话继续时。不用于单纯创建代码脚手架、通用 AI 教程、全局个人偏好设置或搭建 Agent / Skill 资产库。
-license: MIT
 ---
 
 # AI 项目开局与续接
@@ -125,3 +124,4 @@ license: MIT
 
 - `references/project-template.md` — 创建或补全 `PROJECT.md` 时必须读取。
 - `references/adapter-templates.md` — 创建或补充 `AGENTS.md` / `CLAUDE.md` 时必须读取。
+- `references/evaluation-cases.md` — 修改或回归验证本 Skill 时读取，正常初始化项目时不读取。
